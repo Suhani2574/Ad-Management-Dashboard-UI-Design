@@ -1,4 +1,4 @@
-Ad Management Dashboard UI Design
+#Ad Management Dashboard UI Design
 The project is designed as a modern AI SaaS web interface AI ads manager platforms . The primary focus was on clean UI, smooth user experience, and modular structure. The project uses HTML + Tailwind CSS, allowing faster development and consistent styling through utility classes.
 🔹 Design Decisions
 A dark-themed UI with gradient backgrounds (indigo–purple) was chosen to give a premium, AI-focused look.Floating animated words were added in the background using CSS animations to create a dynamic and futuristic feel without affecting usability.
